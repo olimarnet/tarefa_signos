@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- a) Desenvolva uma página web contendo um formulário onde você 
+poderá inserir sua data de nascimento, clicar em um botão e ser redirecionado
+para uma página que contém as informações principais do seu signo: um título
+(qual é seu signo) e as suas principais características. 
+As informações de cada signo 
+estarão armazenadas em um arquivo XML estruturado da seguinte forma: -->
+
+
+<signos>
+
+
+<signo>
+<dataInicio>21/01</dataInicio>
+<dataFim>18/02</dataFim>
+<signoNome>Aquário</signoNome>
+<descricao>As pessoas desse signo são independentes esses nativos não querem saber de regras,
+ são muito exigentes, horários muito regulados, são coisas assim para as profissões que vão
+  agradar esse signo. Os aquarianos têm pavor de se sentirem presas, por isso é comum que
+   troquem de emprego várias vezes. Os ramos de informática, eletrônica e internet têm tudo
+    a ver com esse signo, pois permitem contato com novas tecnologias. Trabalhos ligados à ecologia,
+     ciências, artes, astrologia e terapias alternativas também são ótimas opções.
+      </descricao>
+</signo>
+
+<signo>
+<dataInicio>19/02</dataInicio>
+<dataFim>20/03</dataFim>
+<signoNome>Peixes</signoNome>
+<descricao>O mesmo signo de Jesus Cristo. As pessoas desse signo são idealistas a profissão desses
+ nativos não pode ir contra seus ideais, pois sua maior satisfação são seus sonhos. 
+ Esse signo sempre escolhe sua carreira não pelo cargo que paga mais, mas pela possibilidade de
+  se realizar profissionalmente. As profissões ligadas à dança, fotografia, artes plásticas,
+   músicas e artes dramáticas são as ideais para os piscianos, que também têm talento para trabalhos 
+   sociais, terapêuticos e relacionados à saúde e à mente, como medicina e psicologia.</descricao>
+</signo>
+
+<signo>
+<dataInicio>21/03</dataInicio>
+<dataFim>20/04</dataFim>
+<signoNome>Áries</signoNome>
+<descricao>As pessoas desse signo são enérgicas e fortes, e as posições de trabalho que precisam de
+ liderança e pulso firme combinam totalmente com esse signo, pois, todos esses nativos são sempre muito
+  dinâmicos. Sem contar que todos nós sabemos que as pessoas de Áries nasceram para liderar e mostrar o
+   caminho para as outras pessoas. Esse signo têm talento para vendas, atividades esportivas, enfermagem
+    e medicina. </descricao>
+</signo>
+
+<signo>
+<dataInicio>21/04</dataInicio>
+<dataFim>20/05</dataFim>
+<signoNome>Touro</signoNome>
+<descricao>As pessoas desse signo são do elemento terra estes nativos gostam de estabilidade no emprego
+ e trabalham arduamente para crescer e se destacar na sua área de atuação. Além de se dar bem em cargos
+  públicos, pode explorar seu potencial na área financeira, contabilidade, agricultura, comércio e em
+   atividades que exigem habilidade manual como artesanato, desenho, música, moda e beleza. </descricao>
+</signo>
+
+<signo>
+<dataInicio>21/05</dataInicio>
+<dataFim>20/06</dataFim>
+<signoNome>Gêmeos</signoNome>
+<descricao>As pessoas desse signo são versáteis faz com que esses nativos se de bem em vários tipos
+ de atividades. E quanto mais dinamismo tiver a profissão, mais os geminianos vão gostar.
+  Eles adoram profissões ligadas à comunicação, como jornalismo, radialismo, publicidade e propaganda,
+   e relações públicas. Também são ótimos educadores, além de atividades que possam ter contato com o
+    público, como vendedores e recepcionistas. </descricao>
+</signo>
+
+<signo>
+<dataInicio>21/06</dataInicio>
+<dataFim>22/07</dataFim>
+<signoNome>Câncer</signoNome>
+<descricao>As pessoas desse signo são ambiciosas esse signo gosta de sentir que são úteis,
+ consequentemente se dedicam bastante às suas tarefas. Atividades relacionadas ao ramo alimentício,
+  como proprietária de restaurante, garçonete e cozinheira chamam a sua atenção.
+   Esses nativos também podem se dar bem nas áreas do ensino, vendas e imóveis, atuando também como
+    assistente social ou artista. </descricao>
+</signo>
+
+<signo>
+<dataInicio>23/07</dataInicio>
+<dataFim>22/08</dataFim>
+<signoNome>Leão</signoNome>
+<descricao>As pessoas desse signo são determinadas esses nativos não têm medo de trabalhar duro 
+para conseguir o que desejam. Estão sempre usando a criatividade e não fogem dos desafios. São ótimos
+ gerentes e supervisores. Mas as atividades que estimulam sua criatividade são as que mais lhe atraem,
+  por isso estão sempre envolvidos com o mundo artístico: podem ser figurinistas, escultores, designers,
+   cantores, especialmente atores, afinal, têm o dom da interpretação.
+</descricao>
+</signo>
+
+<signo>
+<dataInicio>23/08</dataInicio>
+<dataFim>22/09</dataFim>
+<signoNome>Virgem</signoNome>
+<descricao>As pessoas desse signo são muito eficientes em suas tarefas, esses nativos geralmente sobem
+ muito rápido de cargo. As profissões que estão ligadas à escrita, contabilidade, artesanato, nutrição,
+  saúde, comércio, pesquisa, jornalismo e secretariados são ótimas para esse signo. Além disso,
+   pode se dar bem atuando com costura, bordado, ensino e computação. As pessoas desse signo são muito
+    eficientes em suas tarefas, esses nativos geralmente sobem muito rápido de cargo. As profissões que
+     estão ligadas à escrita, contabilidade, artesanato, nutrição, saúde, comércio, pesquisa, jornalismo
+      e secretariados são ótimas para esse signo. Além disso, pode se dar bem atuando com costura, bordado
+      , ensino e computação. </descricao>
+</signo>
+
+<signo>
+<dataInicio>23/09</dataInicio>
+<dataFim>22/10</dataFim>
+<signoNome>Libra</signoNome>
+<descricao>As pessoas desse signo são excelentes diplomatas, quase ninguém reclama de um colega de trabalho
+ desse signo, pois eles são sempre legais com todos e são pessoas corretas. Esses nativos combinam com
+  profissões ligadas à dança, relações públicas e música, além de atividades que utilizem o seu ótimo senso
+   de estilo, como decoração, maquiagem, moda e artes. Também combinam com cursos de turismo, direito e
+    educação, mas sempre se dão melhor atuando em equipe. </descricao>
+</signo>
+
+<signo>
+<dataInicio>23/10</dataInicio>
+<dataFim>21/11</dataFim>
+<signoNome>Escorpião</signoNome>
+<descricao>As pessoas desse signo são daqueles que querem comandar, esses nativos são muito dedicadas, mas
+ não gostam nem um pouco de receber ordens o tempo todo. Esse signo tem muita habilidade para trabalhar
+  com restaurantes, investigações, medicina, política e publicidade. Também se realizam trabalhando como
+   pesquisadores ou escritores, pois eles tem uma grande necessidade de estar sempre criando algo. </descricao>
+</signo>
+
+<signo>
+<dataInicio>22/11</dataInicio>
+<dataFim>21/12</dataFim>
+<signoNome>Sagitário</signoNome>
+<descricao>As pessoas desse signo têm sempre mil idéias na cabeça, os sagitarianos podem até se
+ sobrecarregar com tantas atividades que inventam fazer. Profissões como direito, esportes, turismo, 
+ educação e comunicação são ótimas pedidas, pois essas atividades conseguem utilizar toda a energia 
+ desse signo. Esses nativos também podem se dar muito bem em atividades que exigem facilidade de expressão,
+  poder de argumentação e boas idéias, como relações públicas e jornalismo. </descricao>
+</signo>
+
+<signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Em latim capri= cabra e corno= chifre As pessoas desse signo são extremamente competentes e
+     responsáveis, esses nativos são dedicados se tornando excelentes profissionais. Cargos de chefia
+      têm tudo a ver com esse signo. Podem também se dar muito bem trabalhando com finanças, administração,
+       política, departamento pessoal e contábil, além de atividades ligadas à terra, como agricultura e
+        administração rural. </descricao>
+</signo>
+
+</signos>
+
